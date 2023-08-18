@@ -1,2 +1,2 @@
 -- Script that lists all tables 
-USE mysql;
+USE hbtn_test_db_0;
