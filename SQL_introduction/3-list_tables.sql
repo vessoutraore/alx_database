@@ -1,4 +1,4 @@
 -- Script that lists all tables 
-USE hbtn_0c_0;
+USE mysql_test;
 
 SHOW TABLES;
