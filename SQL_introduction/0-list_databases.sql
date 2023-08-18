@@ -1,4 +1,3 @@
-/* Script that lists all databases of my MySQL server */
-
-SHOW databases;
+-- Script that lists all databases of my MySQL server
+SHOW DATABASES;
 
